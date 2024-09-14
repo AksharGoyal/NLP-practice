@@ -1,0 +1,9 @@
+diffusers
+transformers
+python-dotenv
+accelerate
+protobuf
+sentencepiece
+torch
+git+https://github.com/huggingface/transformers
+huggingface_hub
